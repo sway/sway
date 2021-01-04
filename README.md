@@ -8,7 +8,16 @@ In my free time I'm on a quest to make the best gin basil smash 🍸. I also rid
 
 ## My Projects
 
-### [365 days with my Apple Watch](https://honza.xyz/apple-watch/)
+
+### [GT81](https://gt81.honza.xyz/)
+
+GT81 is a personal, web-based version of the in-workout dashboard you can find in BEAT81 classes to help people measure their workouts during lockdown.
+
+_Built with Next.js._
+
+
+
+### [365 days with my Apple Watch](https://aw.honza.xyz/)
 After I got my Apple Watch a year ago I dug deep into my activity data to see what patterns I can discover and visualize with pretty charts.
 
 _Built with Next.js and Recharts. Data analysis in python._
