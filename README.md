@@ -2,7 +2,7 @@
 
 I'm a product manager living in Berlin, who enjoys building new products and drinking old scotch.
 
-I currently lead product in [Back](https://backhq.com) 🚀, building products for the workplace 👩‍💻. Before that I was leading the product teams in Marley Spoon 🍱 and Fyber 📱.
+I'm currently building products at [Personio](https://personio.de) 🚀, driving employee productivity and happiness the workplace 👩‍💻. Before that I co-built Back, and even earlier I was leading the product teams in Marley Spoon 🍱 and Fyber 📱.
 
 In my free time I'm on a quest to make the best gin basil smash 🍸. I also ride my bike 🚴 around Berlin and obsess about coffee ☕️.
 
